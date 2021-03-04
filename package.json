@@ -1,0 +1,17 @@
+{
+  "name": "com.techm.bluetoothdevicelistplugin",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "com.techm.bluetoothdevicelistplugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Balram",
+  "license": "ISC"
+}
